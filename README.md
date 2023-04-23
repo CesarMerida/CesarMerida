@@ -1,8 +1,9 @@
 ### Hola Este Es Mi Perfil😉  👋
 
 
-  <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" width="200" />div id="header" align="center">
-
+  <div id="header" align="center">
+  <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" width="200" />
+</div>
 
 <!--
 **CesarMerida/CesarMerida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
