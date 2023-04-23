@@ -2,7 +2,7 @@
 
 
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="200" />
 </div>
 
 <h3 align="center">Aprendiendo el desarrollo</h3>
