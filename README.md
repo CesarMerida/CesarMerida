@@ -2,7 +2,7 @@
 
 
   <div id="header" align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" width="200" />
+  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="300" />
 </div>
 
 <!--
